@@ -43,11 +43,17 @@ sidebar:
         link:
 
 career-profile:
-    title: Education
+    - degree: BSc in Computer Science
+    university: National University of Singapore
+    time: 2018-2022
     details: |
-        Cumulative Average Point: 4.65/5.0, Software Engineering and Artificial Intelligence
-        -hi
-        -v
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
     
 education:
     - degree: BSc in Computer Science
