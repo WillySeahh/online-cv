@@ -44,14 +44,16 @@ sidebar:
 
 career-profile:
     title: Summary
-    summary: |
-      I am penultimate Computer Science Student studying in the National University of Singapore
-      with a Cumulative Average Point: 4.65/5.0, specializing in Software Engineering and Artificial Intelligence. 
-      I was awarded Dean's List for Academic Year 19/20 Semester 1. 
-      I enjoy solving problems 
-    details : |
-      NUS 
-        - fwefwewe
+    experiences:
+      - role: Front End Engineer
+        time: Jun 2020 - Aug 2020
+        company: Defence Security Organisation, Singapore
+        details: |
+          Descr
+            - Developed a web front-end to display results in the form of a Diamond Model, a renowned model in the field of Cyber
+            Security, to present information in a succinct manner to Cyber Analysts and the Upper Management allowing them to
+            make crucial decision swiftly.
+            - Worked with Cytoscape.js, HTML, CSS, JavaScript, Python and Machine Learning (Text-Summarization).
     
 education:
     - degree: BSc in Computer Science
