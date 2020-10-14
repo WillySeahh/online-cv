@@ -14,13 +14,13 @@ sidebar:
     # Sidebar links
     email: willy.seah@hotmail.com
     phone: +65 83836557
-    website: blog.webjeda.com #do not add http://
-    linkedin: willy-seah
+    #website: blog.webjeda.com #do not add http://
+    linkedin: willy-seah-38aaa9149
     github: WillySeahh
     telegram: willyseah
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    #twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -39,8 +39,6 @@ sidebar:
       - item: Formula1
         link:
 
-      - item: Hackathons
-        link:
 
 career-profile:
     title: About Me
@@ -57,9 +55,9 @@ education:
       time: 2018-2022
       details: |
         ffffff
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: GCE A' Levels
+      university: Anglo Chinese Junior College
+      time: 2014 - 2015
       details: |
         Describe your study here lorem ipsum dolor siamet, cosectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -102,13 +100,12 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are some of my side-projects that I have done for Hackathons or self-project. 
     assignments:
       - title: Stand.Up
         link: "google.com"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Developed this application as part of Build On Singapore 2020 hackathong where it is similar to Medium, but more catered to 
+        learning."
 
       - title: DevStudio
         link: "#"
