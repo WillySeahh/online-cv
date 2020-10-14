@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -87,28 +87,30 @@ experiences:
           Security, to present information in a succinct manner to Cyber Analysts and the Upper Management allowing them to
           make crucial decision swiftly.
           - Worked with Cytoscape.js, HTML, CSS, JavaScript, Python and Machine Learning (Text-Summarization).
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Full Stack Web Application Engineer
+      time: Dec2019 - Mar2020
+      company: Timestory, Singapore
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Designed and programmed a web application, both front-end and back-end, for a local start-up luxury watch company to
+          showcase their collection of watches. Programmed an easy-to-use Admin Page for our non-technical clients as well.
+          - Worked with Adobe XD, Django Framework, PostgreSQL, HTML and CSS.
+    - role: Quality Assurance Automation Intern
+      time: May2019 - Jul2019
+      company: V-Key, Singapore
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Developed a program to automate over 100 mobile tests for both Android and iOS used in V-Guard Mobile Application
+          that is deployed in conjunction with V-OS, the world’s first virtual secure element (FIPS 140-2 and IMDA certified).
+          - Worked with Appium, Apache Maven, testNG and Eclipse when programming.
 projects:
     title: Projects
     intro: >
@@ -116,8 +118,8 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: Stand.Up
+        link: "www.google.com"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
@@ -162,11 +164,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: HTML5 & CSS
+        level: 90%
+
+      - name: Python & Django
+        level: 90%
+
+      - name: Javascript
+        level: 80%
 
       - name: Angular
         level: 98%
@@ -181,4 +189,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Willy Seah</a>
