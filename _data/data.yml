@@ -46,7 +46,10 @@ career-profile:
     title: Summary
     summary: |
       I am penultimate Computer Science Student studying in the National University of Singapore
-      with a Cumulative Average Point: 4.65/5.0, specializing in Software Engineering and Artificial Intelligence
+      with a Cumulative Average Point: 4.65/5.0, specializing in Software Engineering and Artificial Intelligence. 
+    details : |
+      fffffff
+      ff
     
 education:
     - degree: BSc in Computer Science
