@@ -7,17 +7,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Willy Seah
+    tagline: Software Engineer
+    avatar: willy_profile_photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: willy.seah@hotmail.com
+    phone: +65 83836557
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    linkedin: willyseah
+    github: WillySeahh
+    telegram: willy# add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: '@webjeda'
@@ -27,19 +27,19 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Native
+        level: Professional
 
-      - idiom: French
+      - idiom: Mandarin
         level: Professional
 
       - idiom: Spanish
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Waterpolo
         link:
 
-      - item: Snowboarding
+      - item: Formula1
         link:
 
       - item: Cooking
@@ -55,9 +55,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Computer Science
+      university: National University of Singapore
+      time: 2018-2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,21 +78,15 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Front End Engineer
+      time: Jun2020 - Aug2020
+      company: Defence Security Organisation, Singapore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Descr
+          - Developed a web front-end to display results in the form of a Diamond Model, a renowned model in the field of Cyber
+          Security, to present information in a succinct manner to Cyber Analysts and the Upper Management allowing them to
+          make crucial decision swiftly.
+          - Worked with Cytoscape.js, HTML, CSS, JavaScript, Python and Machine Learning (Text-Summarization).
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
