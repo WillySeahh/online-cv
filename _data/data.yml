@@ -43,17 +43,12 @@ sidebar:
         link:
 
 career-profile:
-    title: Summary
-    experiences:
-      - role: Front End Engineer
-        time: Jun 2020 - Aug 2020
-        company: Defence Security Organisation, Singapore
-        details: |
-          Descr
-            - Developed a web front-end to display results in the form of a Diamond Model, a renowned model in the field of Cyber
-            Security, to present information in a succinct manner to Cyber Analysts and the Upper Management allowing them to
-            make crucial decision swiftly.
-            - Worked with Cytoscape.js, HTML, CSS, JavaScript, Python and Machine Learning (Text-Summarization).
+    title: About Me
+    Hello! I am Willy Seah, a penultimate year student at the National University of Singapore (NUS) majoring in Computer Science and graduating in May 2022.
+    Currently I have a Culmulative Average Point of 4.65/5.00 and was awarded the School of Computing Dean's List Award for Academic Year 19/20-1. 
+
+    I am deeply passionate about all things tech related, especially in areas like Artificial Intelligence and Software Engineering. 
+    Scroll down to see my experience and the projects that I have made since starting university!
     
 education:
     - degree: BSc in Computer Science
