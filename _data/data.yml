@@ -42,12 +42,15 @@ sidebar:
       - item: Hackathons
         link:
 
-  career-profile:
-    title: Education
+career-profile:
+    title: Career Profile
     summary: |
-      - Bachelor of Computing in Computer Science, Honours
-      - Cumulative Average Point: 4.65/5.0, Software Engineering and Artificial Intelligence
-      - Achieved Dean’s List for Academic Year 19/20 Semester 1
+        Summarise your career here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. You can [download this free resume/CV template here]().
+        Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+        penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+        Donec quam felis, ultricies nec, pellentesque eu.
+        Second paragraph if required.
     
 education:
     - degree: BSc in Computer Science
