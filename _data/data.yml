@@ -54,7 +54,7 @@ education:
       university: National University of Singapore
       time: 2018-2022
       details: |
-        ffffff
+   
     - degree: GCE A' Levels
       university: Anglo Chinese Junior College
       time: 2014 - 2015
@@ -71,7 +71,7 @@ experiences:
       time: Jun 2020 - Aug 2020
       company: Defence Security Organisation, Singapore
       details: |
-        Descr
+     
           - Developed a web front-end to display results in the form of a Diamond Model, a renowned model in the field of Cyber
           Security, to present information in a succinct manner to Cyber Analysts and the Upper Management allowing them to
           make crucial decision swiftly.
