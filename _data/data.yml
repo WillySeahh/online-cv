@@ -103,13 +103,13 @@ projects:
       Here are some of my side-projects that I have done for Hackathons or self-project. 
     assignments:
       - title: Stand.Up
-        link: "busto"
-        tagline: "Developed this application as part of Build On Singapore 2020 hackathong where it is similar to Medium, but more catered to 
-        learning."
+       # link: "busto"
+        tagline: "Developed this application as part of Build On Singapore 2020 hackathon, where we advanced to the Singapore Semi-Finals.  It performs a similar function to Medium, but more catered towards 
+        learning. From this web application, users are able to post an article/summary of what they have learnt! "
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      # - title: DevStudio
+      #   link: "#"
+      #   tagline: "A responsive website template designed to help web developers/designers market their services."
 
       # - title: Tempo
       #   link: "#"
@@ -161,8 +161,14 @@ skills:
       - name: Javascript
         level: 80%
 
+      - name: React
+        level: 50%
+      
+      - name: Backend(Sequelize, Node.js)
+        level: 50%
+        
       - name: Sketch & Photoshop
         level: 30%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Willy Seah</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Willy Seah</a>
