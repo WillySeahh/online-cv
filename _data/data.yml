@@ -101,12 +101,12 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Here are some of my side-projects that I have done for Hackathons or self-project. 
+      Here are some of my side-projects that I have done for Hackathons.
     assignments:
       - title: Stand.Up
        # link: "busto"
-        tagline: "Developed this application as part of Build On Singapore 2020 hackathon, where we advanced to the Singapore Semi-Finals.  It performs a similar function to Medium, but more catered towards 
-        learning. From this web application, users are able to post an article/summary of what they have learnt! "
+        tagline: "Developed this application as part of Build On Singapore 2020 hackathon, where my team advanced to the Singapore Semi-Finals.  It performs a similar function to Medium, but ours is more catered towards 
+        helping our users learn better. Through this web application, users are able to post an article/summary of what they have learnt. "
 
       # - title: DevStudio
       #   link: "#"
@@ -165,7 +165,7 @@ skills:
       - name: React
         level: 50%
       
-      - name: Backend(Sequelize, Node.js)
+      - name: Sequelize, Node.js
         level: 50%
         
       - name: Sketch & Photoshop
