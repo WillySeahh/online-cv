@@ -104,7 +104,7 @@ projects:
       Here are some of my side-projects that I have done for Hackathons.
     assignments:
       - title: Stand.Up
-       # link: "busto"
+        link: "busto"
         tagline: "Developed this application as part of Build On Singapore 2020 hackathon, where my team advanced to the Singapore Semi-Finals.  It performs a similar function to Medium, but ours is more catered towards 
         helping our users learn better. Through this web application, users are able to post an article/summary of what they have learnt. "
 
